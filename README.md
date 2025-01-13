@@ -8,6 +8,7 @@ This repo reflects my skills and fundamentals on HTML/CSS
 
 - [x] Fundamentals of Elements and Tags
     - Elements are a composition of the opening tag, content, and closing tag
+    - Tags are to be used to let the browser know the type of content or meta-information to be wary of so that it renders
 - [x] HTML boilerplate
 - [x] Working with text
     - Paragraphs `<p>`
