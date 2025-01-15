@@ -18,7 +18,9 @@ This repo reflects my skills and fundamentals on HTML/CSS
     - Parent/child/siblings relationships between nested tags
     - Creation of HTML comments
 
-
 ### CSS
 
 placeholder
+
+### Websites preview
+[Odin Recipes](https://mashotu.github.io/odin-recipes/index.html)
