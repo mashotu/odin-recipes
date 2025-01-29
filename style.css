@@ -1,0 +1,44 @@
+* {
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
+
+body {
+    width: 1500px;
+    margin: 0 auto;
+}
+
+
+.recipe {
+    display: inline-block;
+    border: 2px solid black;
+    padding: 65px 0 0 0;
+    margin: 20px;
+    height: 400px;
+    width: 400px;
+}
+
+.recipes {
+    width: fit-content;
+    margin: 0 auto;
+    margin-top: 20px;
+    text-align: center;
+}
+
+li {
+    text-align: center;
+    list-style-type: none;
+    margin-top: 20px;
+}
+
+
+
+img {
+    height: 250px;
+    width: 250px;
+    display: block;
+    border: 2px solid black;
+    margin: 0 auto;
+    border-radius: 50%;
+}
