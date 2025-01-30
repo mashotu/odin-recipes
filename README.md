@@ -17,10 +17,16 @@ This repo reflects my skills and fundamentals on HTML/CSS
     - Emphasis   `<em>`
     - Parent/child/siblings relationships between nested tags
     - Creation of HTML comments
+- Lists
+- Links and Images
 
 ### CSS
 
-placeholder
+- Basic styling
+- Understanding the cascade: Specificity, Inheritance, and Rule order
+- Using the in-browser inspector
+- Understand of the Box Model -> Margin, Border, Padding, Content
+- Block, Inline, and Inline block 
 
 ### Websites preview
 [Odin Recipes](https://mashotu.github.io/odin-recipes/index.html)
